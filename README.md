@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I´m Vinicius 👋
+
+- 🔭 I’m currently working as an Squad Leader and Dev at FMX, using .Net, Sql Server and Genexus.
+- 🌱 I’m currently learning more about .Net Core, and all .Net family, API and deep into Architecture, Patterns and Tests.
+- 👯 I’m looking to collaborate on Open Source API´s made with .Net Core
 
 <!--
 **vinisaab/vinisaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
